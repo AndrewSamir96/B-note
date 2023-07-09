@@ -9,7 +9,7 @@ This project is a Note taking App for your Tasks, Reminders or recording thought
 - Search for notes with the search bar.
 
 # Technologies used
-- SQLitefor data persistence and management.
+- SQLite for data persistence and management.
 - Custom RecycleView Adapter for the notes.
 - BottomSheets for the theming.
 - Custom delete AlertDialog.
