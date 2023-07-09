@@ -19,4 +19,4 @@ This project is a Note taking App for your Tasks, Reminders or recording thought
 
 
 
-<img align="center" src="https://github.com/AndrewSamir96/B-note/tree/master/Screenshot-APK/screenshot.png"/>
+<img align="center" src="https://raw.githubusercontent.com/AndrewSamir96/B-note/master/Screenshot-APK/screenshot.png"/>
